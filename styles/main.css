@@ -42,22 +42,27 @@ menu {
     flex-direction: row;
     justify-content: flex-end;
     align-items: center;
-    padding-right: 300px;
+    padding-left: 300px;
 }
 
 .enlaces-menu-derecha {
-    width: 40%;
+    width: 100%;
     text-decoration: none;
     font-family: "Roboto", Sans-serif;
     font-size: 14px;
     font-weight: 500;
     text-transform: uppercase;
-    color: #273272;
-    padding: 0px 5px 0px 5px;
+    color: #f5eff3;
+    background-color: rosybrown;
+    padding: 5px;
+    border: 2px solid black ;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 5px ;
 }
 
 .enlaces-menu-derecha:hover {
-    color: #ff0000;
+    color: #0f0202;
 }
 
 body {
@@ -89,7 +94,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 5px;
+    padding: 50px 0px 30px 0px;
 }
 
 .main-img img {
@@ -109,18 +114,18 @@ body {
     align-items: center;
     justify-content: center;
     height: auto;
-    border-top: 2px solid black;
+    border-top: 2px solid rgb(58, 51, 55);
 }
 
 .accordion-item:hover {
     transform: scale(1.05);
-    border: 3px solid black;
+    border: 3px solid rgb(218, 162, 162);
 }
 
 .accordion-title {
     width: 100%;
     height: 50px;
-    background-color: rgb(215, 245, 245);
+    background-color: rgb(231, 196, 231);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -166,7 +171,7 @@ body {
     font-size: 13px;
     font-weight: 500;
     text-transform: uppercase;
-    padding-bottom: 30px;
+    padding-bottom: 10px;
     font-family: "Roboto", Sans-serif;
 }
 

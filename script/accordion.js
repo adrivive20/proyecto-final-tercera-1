@@ -2,16 +2,16 @@ console.log("Accordion Cargado");
 
 const dataAccordion = [
     {
-        "title": "Carreras Universitarias",
-        "desc": "Nos enfocamos en las 4 carreras más importantes del país."
+        "title": "Decoracion Interior",
+        "desc": "Transformamos tus espacios, creamos tu hogar."
     },
     {
-        "title": "Carreras Universitarias",
-        "desc": "Nos enfocamos en las 4 carreras más importantes del país."
+        "title": "Decoracion Exterior",
+        "desc": "Redefinimos el exterior, expandimos tu mundo."
     },
     {
-        "title": "Carreras Universitarias",
-        "desc": "Nos enfocamos en las 4 carreras más importantes del país."
+        "title": "Mantenimiento de jardines",
+        "desc": "Cuidamos tu jardín, cultivamos tu bienestar."
     },
 ];
 

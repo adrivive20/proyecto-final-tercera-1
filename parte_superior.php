@@ -8,20 +8,20 @@
 </head>
 
 <menu>
-    <div class="menu-izquierda">
-        <a href="./index.php">
-            <img src="./images/logo1.jpeg" alt="">
-        </a>
-    </div>
     <div class="menu-container">
         <div class="menu-derecha">
-            <a class="enlaces-menu-derecha" href="https://google.com">Primer Ingreso</a>
-            <a class="enlaces-menu-derecha" href="https://google.com">Aula en Línea</a>
+            <a class="enlaces-menu-derecha" href="#">Inicio</a>
+            <a class="enlaces-menu-derecha" href="./galeria.php">Galeria</a>
         </div>
         <div class="hamburger-icon">
             <span></span>
             <span></span>
             <span></span>
         </div>
+    </div>
+    <div class="menu-izquierda">
+        <a href="./index.php">
+            <img src="./images/FAUGET.png" alt="">
+        </a>
     </div>
 </menu>
