@@ -200,6 +200,7 @@ body {
     width: 30%;
     height: auto;
     overflow: hidden;
+    border-radius: 10px;
     box-shadow: 1px 1px 20px 0 black;
 }
 
@@ -234,7 +235,7 @@ body {
 
 .card-desc {
     width: auto;
-    height: 80px;
+    height: 100px;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -259,7 +260,7 @@ body {
     margin-right: 10px;
     margin-bottom: 10px;
     color: #f2f3f6;
-    background-color: blue;
+    background-color: rgb(92, 92, 131);
 }
 
 .card-cta:hover {

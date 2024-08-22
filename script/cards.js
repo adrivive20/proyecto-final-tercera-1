@@ -2,25 +2,25 @@ console.log("Cards Cargado");
 
 const dataCards = [
     {
-        "title": "Ingeniería Industrial",
-        "url_image": "./images/ingenieria-industrial.png",
-        "desc": "Optimiza procesos, sistemas u organizaciones complejos mediante el desarrollo, la mejora y la implementación de sistemas integrados de personas (recursos humanos), riqueza, conocimiento, información y equipamiento, energía, materiales y procesos.",
+        "title": "Decoración de interiores",
+        "url_image": "./images/interior.jpeg",
+        "desc": "La decoración de interiores combina funcionalidad y estética, transformando espacios mediante la selección de colores, muebles y accesorios. Se adapta al estilo y personalidad del cliente,creando ambientes acogedores y armoniosos contribuyendo a un espacio equilibrado y atractivo..",
         "cta": "Mostrar más...",
-        "link": "./ingenieria-industrial.php"
+        "link": "https://gruposantamaria.cr/?utm_term=decoracion%20hogar&utm_campaign&utm_source=adwords&utm_medium=ppc&hsa_acc=4503357278&hsa_cam=21515131881&hsa_grp=166443070538&hsa_ad=707681133002&hsa_src=g&hsa_tgt=kwd-22912686&hsa_kw=decoracion%20hogar&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjww5u2BhDeARIsALBuLnPLMsyu0yqfENSogWNBEWB4eyW6ESW_ozYMOw69Ua3UpZ_w5GHcVRwaAsP2EALw_wcB"
     },
     {
-        "title": "Ingeniería en Sistemas",
-        "url_image": "./images/ingenieria-sistemas.png",
-        "desc": "Revisa minuciosamente los datos para la creación de programas, aplicativos y herramientas que faciliten los procesos empresariales en un entorno de información segura y protegida.",
+        "title": "Decoración de exteriores",
+        "url_image": "./images/exterior.jpeg",
+        "desc": "La decoración de exteriores transforma espacios al aire libre con muebles, plantas y elementos arquitectónicos, creando ambientes funcionales y acogedores que se integran con la naturaleza y reflejan un estilo personal..",
         "cta": "Mostrar más...",
-        "link": "./ingenieria-sistemas.php"
+        "link": "https://fusioninmobiliariacr.com/decoracion-de-exteriores/"
     },
     {
-        "title": "Administración",
-        "url_image": "./images/administracion.png",
-        "desc": "Asegura el funcionamiento óptimo de cada elemento dentro de la organización, promoviendo el uso eficiente de los recursos aplicándolos para la obtención de las rentabilidades propuestas.",
+        "title": "Decoración de terrazas",
+        "url_image": "./images/terrazas.jpeg",
+        "desc": "La decoración de terrazas maximiza el confort al aire libre con muebles, plantas y elementos decorativos, creando un espacio acogedor y funcional para el descanso, entretenimiento, y disfrute de la naturaleza..",
         "cta": "Mostrar más...",
-        "link": "./administracion.php"
+        "link": "https://www.elmueble.com/casas/12-ideas-para-decorar-tu-terraza-sea-cual-sea-su-tamano-y-forma_43245"
     }
 ];
 
