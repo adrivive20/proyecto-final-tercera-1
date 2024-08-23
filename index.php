@@ -1,7 +1,5 @@
 <?php require_once "./parte_superior.php" ?>
 
-
-
 <body>
 
     <div class="main-img">
@@ -9,11 +7,11 @@
     </div>
 
     <div class="titulo">
-    <p>"Decoramos con sueños y pintamos con colores de optimismo. Este hogar es nuestra obra maestra en constante evolución."</p>
+        <p>"Decoramos con sueños y pintamos con colores de optimismo. Este hogar es nuestra obra maestra en constante
+            evolución."</p>
     </div>
 
-    <div class="main-accordion-container">
-
+    <div class="card-list">
     </div>
 
     <div class="mid-info">
@@ -21,7 +19,7 @@
         <p class="mid-info-desc">Nuestros Servicios</p>
     </div>
 
-    <div class="card-list">
+    <div class="main-accordion-container">
     </div>
 
 </body>

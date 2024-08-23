@@ -10,7 +10,7 @@
 <menu>
     <div class="menu-container">
         <div class="menu-derecha">
-            <a class="enlaces-menu-derecha" href="#">Inicio</a>
+            <a class="enlaces-menu-derecha" href="./index.php">Inicio</a>
             <a class="enlaces-menu-derecha" href="./galeria.php">Galeria</a>
         </div>
         <div class="hamburger-icon">
@@ -21,7 +21,7 @@
     </div>
     <div class="menu-izquierda">
         <a href="./index.php">
-            <img src="./images/FAUGET.png" alt="">
+            <img src="./images/FAUGET.png" alt="./index.php">
         </a>
     </div>
 </menu>

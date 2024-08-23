@@ -1,12 +1,12 @@
 <footer>
     <div class="footer-izquierda">
-        <h2>Tercera 1, II Cuatrimestre, 2024</h2>
+        <h2>El arte de decorar, el placer de vivir</h2>
     </div>
 
     <div class="footer-derecha">
-        <p>Todos los derechos reservados</p>
-        <p>Esta es una página de prueba</p>
-        <p>2024-2025</p>
+        <p>Adriana Villalobos Vega</p>
+        <p>Decoradora de interiores y exteriores</p>
+        <p>2024</p>
     </div>
 </footer>
 

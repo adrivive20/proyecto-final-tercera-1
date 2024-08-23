@@ -1,13 +1,13 @@
 console.log("Cards Cargado");
 
 const dataCards = [
-    {
+    { 
         "title": "Decoración de interiores",
         "url_image": "./images/interior.jpeg",
         "desc": "La decoración de interiores combina funcionalidad y estética, transformando espacios mediante la selección de colores, muebles y accesorios. Se adapta al estilo y personalidad del cliente,creando ambientes acogedores y armoniosos contribuyendo a un espacio equilibrado y atractivo..",
         "cta": "Mostrar más...",
         "link": "https://gruposantamaria.cr/?utm_term=decoracion%20hogar&utm_campaign&utm_source=adwords&utm_medium=ppc&hsa_acc=4503357278&hsa_cam=21515131881&hsa_grp=166443070538&hsa_ad=707681133002&hsa_src=g&hsa_tgt=kwd-22912686&hsa_kw=decoracion%20hogar&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjww5u2BhDeARIsALBuLnPLMsyu0yqfENSogWNBEWB4eyW6ESW_ozYMOw69Ua3UpZ_w5GHcVRwaAsP2EALw_wcB"
-    },
+ },
     {
         "title": "Decoración de exteriores",
         "url_image": "./images/exterior.jpeg",
